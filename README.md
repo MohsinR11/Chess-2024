@@ -61,7 +61,7 @@ The dataset consists of **all my chess games played in 2024** (sourced from Lich
 ## 📩 Contact  
 
 Feel free to reach out if you have any questions or suggestions!  
-- **LinkedIn:**(https://www.linkedin.com/in/mohsin--raza/)  #
-- **GitHub:** (https://github.com/MohsinR11)  # 
+- **LinkedIn:** https://www.linkedin.com/in/mohsin--raza/
+- **GitHub:**   https://github.com/MohsinR11 
 
 If you found this useful, **drop a star ⭐ on this repository** and let’s connect! 🚀♟️ 
