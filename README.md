@@ -9,33 +9,21 @@ By leveraging **data visualization**, I explored **performance trends, win rates
 ## 🚀 Key Insights  
 
 - **Played on 284 Days** in 2024 – Consistency is key!
-- 
 - **4,508 Games Played** with a **49.45% win rate** (2,229 Wins).
-- 
 - **88% of my games** were **Bullet chess**, followed by Blitz (9%) and Rapid (3%).
-- 
 - **Peak Elo Ratings in 2024:**
 
-- 
   - **Bullet:** 1,073 (+506 from last year)
-  - 
   - **Blitz:** 764 (+170)
-  - 
   - **Rapid:** 868 (+249)
  
-  - 
 - **Best Performance Hours:** **10 AM – 2 PM**, with lower win rates at night.
-- 
 - **Longest Win Streak:** **10 games**, achieved **twice** (Sept 23 & Oct 7).
-- 
 
 ## 🔍 Key Trends & Learnings  
 
-
 ✅ **White vs. Black Performance**: Win rate with **White (52%)** was slightly higher than with **Black (48%)**.  
-
 ✅ **Best Opening Strategy**: **"Queen’s Pawn Game (d4 d5)"** gave me the highest winning percentage.  
-
 ✅ **Opponent Strength & Ratings**: Strongest results against **600-800 rated players**, struggled against **1000+ opponents**.  
 
 
@@ -44,17 +32,11 @@ By leveraging **data visualization**, I explored **performance trends, win rates
 The dataset consists of **all my chess games played in 2024** (sourced from Lichess/Chess.com), including:  
 
 - **Game Date & Time**
-- 
 - **Opponent Rating**
-- 
 - **Game Mode (Bullet, Blitz, Rapid)**
-- 
 - **Elo Changes**
-- 
 - **Opening Moves & Win Rates**
-- 
-- **Game Outcome (Win/Loss/Draw)**
-- 
+- **Game Outcome (Win/Loss/Draw)** 
 
 ## 📌 How to Use  
 
